@@ -32,10 +32,10 @@ Extra functions that are not part of the standard library:
 
 
 ## Usage
-   git clone <repository-url>
-   cd libft
-   make
-   ./libft
+- git clone <[repository-url](https://github.com/NorikaNarimatsu/libft)>
+- cd libft
+- make
+- ./libft
 
 ## Makefile
 - make: Compiles all .c files and generates libft.a.
